@@ -23,21 +23,21 @@ This project analyzes Diwali sales data to uncover customer trends, spending pat
 
 - Key Columns:
 
--- Gender : Male/Female
+1. Gender : Male/Female
 
--- Age Group : Different customer age brackets
+2. Age Group : Different customer age brackets
 
--- Marital Status : Married/Unmarried
+3. Marital Status : Married/Unmarried
 
--- State & Zone : Geographical distribution of orders
+4. State & Zone : Geographical distribution of orders
 
--- Occupation : Customer profession
+5. Occupation : Customer profession
 
--- Product Category : Type of product purchased
+6. Product Category : Type of product purchased
 
--- Orders : Number of units purchased
+7. Orders : Number of units purchased
 
--- Amount : Total purchase value
+8. Amount : Total purchase value
 
 ## 🛠️ Tools & Libraries
 
